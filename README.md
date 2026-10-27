@@ -1,6 +1,6 @@
 # HCMK26CNTT2_IT108_Session10_Ex06
 bài tập số 6
-# 🚀 Bộ Hồ Sơ Triển Khai Nền Tảng Đấu Giá Bất Động Sản Smart-Home (Session 10 Ex06)
+#  Bộ Hồ Sơ Triển Khai Nền Tảng Đấu Giá Bất Động Sản Smart-Home (Session 10 Ex06)
 
 Bài giải hoàn thiện bộ tài liệu đặc tả SRS, quản lý dữ liệu bất động sản và Slide Pitch Deck gọi vốn cho dự án khởi nghiệp Smart-Home.
 
